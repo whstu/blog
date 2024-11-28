@@ -21,7 +21,7 @@ require_once __TYPECHO_ROOT_DIR__ . '/var/Typecho/Common.php';
 $db = new \Typecho\Db('Pgsql', 'typecho_');
 $db->addServer(array (
   'host' => 'ep-raspy-silence-a1mr42p5.ap-southeast-1.aws.neon.tech',
-  'port' => 5555,
+  'port' => 5432,
   'user' => 'neondb_owner',
   'password' => 'chw2JXtZnp0Y',
   'charset' => 'utf8',
