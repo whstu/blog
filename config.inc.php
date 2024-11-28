@@ -20,10 +20,10 @@ require_once __TYPECHO_ROOT_DIR__ . '/var/Typecho/Common.php';
 // config db
 $db = new \Typecho\Db('Pgsql', 'typecho_');
 $db->addServer(array (
-  'host' => 'ep-fancy-rice-a4tpo2vb.us-east-1.aws.neon.tech',
+  'host' => 'ep-raspy-silence-a1mr42p5.ap-southeast-1.aws.neon.tech',
   'port' => 5432,
   'user' => 'neondb_owner',
-  'password' => 'jiYUFSr4ML5x',
+  'password' => 'chw2JXtZnp0Y',
   'charset' => 'utf8',
   'database' => 'neondb',
 ), \Typecho\Db::READ | \Typecho\Db::WRITE);
