@@ -18,7 +18,7 @@ require_once __TYPECHO_ROOT_DIR__ . '/var/Typecho/Common.php';
 \Typecho\Common::init();
 
 // config db
-$db = new \Typecho\Db('Pgsql', 'typecho_');
+$db = new \Typecho\Db('Pdo_Pgsql', 'typecho_');
 $db->addServer(array (
   'host' => 'ep-raspy-silence-a1mr42p5.ap-southeast-1.aws.neon.tech',
   'port' => 5432,
