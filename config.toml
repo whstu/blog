@@ -19,7 +19,7 @@ paginate = 12
 # 谷歌分析代号 [UA-XXXXXXXX-X]
 googleAnalytics = ""
 # 版权描述，仅仅用于 SEO
-copyright = "Copyright 2020-2025 WHSTU Studio"
+copyright = "<a rel="license external nofollow noopener noreffer" href="https://whstu.us.kg" target="_blank">卓然第三帝国提供技术支持</a>"
 
 # 是否使用 git 信息
 #enableGitInfo = true
@@ -155,7 +155,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # LoveIt 新增 | 0.2.0 自定义内容 (支持 HTML 格式)
   custom = ''
   # LoveIt 新增 | 0.2.0 是否显示 Hugo 和主题信息
-  hugo = false
+  hugo = true
   # LoveIt 新增 | 0.2.0 是否显示版权信息
   copyright = true
   # LoveIt 新增 | 0.2.0 是否显示作者
