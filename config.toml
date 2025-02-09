@@ -429,7 +429,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # Gitalk 评论系统设置
   [params.page.comment.gitalk]
     # LoveIt 新增 | 0.1.1
-    enable = true
+    enable = false
     owner = "whstu"
     repo = "hugo-comments"
     clientId = "Ov23liDhKwnQuHnQ5fZ6"
