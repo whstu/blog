@@ -1,5 +1,5 @@
 ---
-title: "建站小记"
+title: "test"
 subtitle: ""
 date: 2023-08-04T22:09:50+08:00
 lastmod: 2023-08-04T22:09:50+08:00
