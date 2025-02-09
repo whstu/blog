@@ -160,7 +160,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   # 网站创立年份
   since = 2025
   # ICP 备案信息，仅在中国使用 (支持 HTML 格式)
-  icp = ''
+  icp = '<a rel="license external nofollow noopener noreffer" href="https://whstu.us.kg" target="_blank">WHSTU Studio</a>'
   # 许可协议信息 (支持 HTML 格式)
   license = '<a rel="license external nofollow noopener noreffer" href="https://whstu.us.kg" target="_blank">卓然第三帝国提供技术支持</a>'
 
