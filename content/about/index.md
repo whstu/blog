@@ -9,7 +9,7 @@ authorLink: ""
 license: ""
 
 tags: ["about"]
-categories: ["%E7%BD%91%E7%AB%99%E5%8E%9F%E7%94%9F"]
+categories: ["网站原生"]
 
 featuredImage: ""
 featuredImagePreview: ""
