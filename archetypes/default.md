@@ -11,13 +11,13 @@ license: ""
 tags: ["标签"]
 categories: ["分类"]
 
-featuredImage: "https://image.whstu.us.kg/seewokiller2.png"
-featuredImagePreview: "https://image.whstu.us.kg/seewokiller2.png"
+featuredImage: "里面和外面的图，要填就全填"
+featuredImagePreview: "外面的图"
 
-summary: 哈哈哈哈，这个b的Hugo又报错了，快进来嘲笑他，哈哈哈哈哈
+summary: 摘要
 
-hiddenFromHomePage: false
-hiddenFromSearch: false
+hiddenFromHomePage: false在主页中隐藏
+hiddenFromSearch: false在搜索中隐藏
 
 toc:
   enable: true
@@ -25,9 +25,10 @@ toc:
 
 mapbox:
 share:
-  enable: true
+  enable: true分享
 comment:
-  enable: true
+  enable: true评论
 ---
 
 # Hugo on Vercel
+Markdown语言，支持html
