@@ -19,7 +19,7 @@ paginate = 12
 # 谷歌分析代号 [UA-XXXXXXXX-X]
 googleAnalytics = ""
 # 版权描述，仅仅用于 SEO
-copyright = "<a rel="license external nofollow noopener noreffer" href="https://whstu.us.kg" target="_blank">卓然第三帝国提供技术支持</a>"
+copyright = "WHSTU Studio"
 
 # 是否使用 git 信息
 #enableGitInfo = true
