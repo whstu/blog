@@ -252,7 +252,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
 # 作者的社交信息设置
 [params.social]
-  GitHub = "https://github.com/whstu"
+  GitHub = "whstu"
   Linkedin = ""
   Twitter = ""
   Instagram = ""
@@ -295,7 +295,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   Strava = ""
   Skype = ""
   Whatsapp = ""
-  Zhihu = "https://www.zhihu.com/people/94-50-75-71"
+  Zhihu = "94-50-75-71"
   Douban = ""
   Angellist = ""
   Slidershare = ""
@@ -313,7 +313,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
   Gitea = ""
   XMPP = ""
   Matrix = ""
-  Bilibili = "https://space.bilibili.com/1889214948"
+  Bilibili = "1889214948"
   Discord = ""
   DiscordInvite = ""
   Lichess = ""

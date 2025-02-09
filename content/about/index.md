@@ -4,17 +4,17 @@ subtitle: ""
 date: 2023-08-05T17:26:12+08:00
 lastmod: 2023-08-05T17:26:12+08:00
 draft: false
-author: ""
+author: "WHSTU"
 authorLink: ""
 license: ""
 
-tags: [""]
-categories: [""]
+tags: ["about"]
+categories: ["网站原生"]
 
 featuredImage: ""
 featuredImagePreview: ""
 
-summary: ""
+summary: "关于"
 
 hiddenFromHomePage: false
 hiddenFromSearch: false
@@ -29,7 +29,7 @@ share:
 comment:
   enable: true
 ---
-<img src="https://image.whstu.us.kg/conan.png"/>
+<img src="https://image.whstu.us.kg/conan.png" height="200" width="auto" alt="Conan">
 你好，欢迎来到WHSTU的博客。
 
 本页面储存了有关网站作者和网站本身的一些信息。
