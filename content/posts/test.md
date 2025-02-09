@@ -12,7 +12,7 @@ tags: ["websitedev"]
 categories: ["websitedev"]
 
 featuredImage: "https://image.whstu.us.kg/seewokiller2.png"
-featuredImagePreview: ""
+featuredImagePreview: "https://image.whstu.us.kg/seewokiller2.png"
 
 summary: 哈哈哈哈，这个b的Hugo又报错了，快进来嘲笑他，哈哈哈哈哈
 
