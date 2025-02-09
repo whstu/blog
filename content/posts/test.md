@@ -3,7 +3,7 @@ title: "test"
 subtitle: ""
 date: 2025-02-09T11:20:38+08:00
 lastmod: 2025-02-09T11:20:38+08:00
-draft: true
+draft: false
 author: "WHSTU"
 authorLink: ""
 license: ""
