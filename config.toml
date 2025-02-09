@@ -25,7 +25,10 @@ copyright = "Copyright 2020-2025 WHSTU Studio"
 #enableGitInfo = true
 # 是否使用 emoji 代码
 enableEmoji = true
-
+#
+[permalinks]
+  posts = "/:year/:month/:slug/"
+disablePathToLower = true
 # 忽略一些构建错误
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
 
