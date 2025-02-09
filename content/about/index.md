@@ -29,8 +29,8 @@ share:
 comment:
   enable: true
 ---
-<img src="https://cdn.staticaly.com/gh/qwangqq/Hugo_images@main/84741695-0.webp"/>
-你好，欢迎来到 No.22 的博客。
+<img src="https://image.whstu.us.kg/conan.png"/>
+你好，欢迎来到WHSTU的博客。
 
 本页面储存了有关网站作者和网站本身的一些信息。
 # 关于本站
