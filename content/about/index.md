@@ -8,8 +8,8 @@ author: "WHSTU"
 authorLink: ""
 license: ""
 
-tags: ["about"]
-categories: ["网站原生"]
+tags: ["网站组件"]
+categories: ["网站组件"]
 
 featuredImage: ""
 featuredImagePreview: ""
@@ -30,6 +30,7 @@ comment:
   enable: true
 ---
 <img src="https://image.whstu.us.kg/conan.png" height="200" width="auto" alt="Conan">
+
 你好，欢迎来到WHSTU的博客。
 
 本页面储存了有关网站作者和网站本身的一些信息。
@@ -59,33 +60,13 @@ comment:
 # 关于WHSTU
 >好，上面的互联网安全声明看完了吧，终于到我啦（搓手）
 
-## 1.为啥叫WHSTU？(抄的，还没改完，跟我没关系)
-这个名字要从大概...3，4年前说起。  
-当时我还在上初一，但是有一台电脑，或者说就是现在这台。  
->这就是忒修斯之电脑吗？
-
-然后那天我在b站看见了一个游戏演示视频，游戏是**Mindustry**  
-<center>
-    <img src="https://image.whstu.us.kg/conan.png" alt="现版本的Mindustry" title="现版本的Mindustry"/><br>
-    不得不说，Mindustry是一款好游戏
-</center>  
-
-这游戏联机很简单，输入服务器的地址，然后设置自己的名字，就可以进服务器开玩了  
-当时我一直在琢磨着取个什么名字，想着想着就随便取了个No.22，然后进了服务器，和大家混熟了，在服务器的QQ群里，我也叫No.22...  
-  
-总之，就是因为在我初一的时候，给Mindustry的联机名取了个No.22，导致我沿用至今。  
-## No.22是什么样的人？
->是一个灵长目人科人属的生物，雄性，截至撰文时16周岁（但是再等一段时间就过生日啦）
-
-
-我啊，其实也是个普普通通的高中生而已，没什么拿得出手的科目，也没什么特长，也不会编程什么的。  
-   
-至于你平时看到的我，看起来好厉害对吧，会Python，会玩AI...  
-  
-但是实际上我只会照着教程做，一遇到问题就问GPT，哪怕是简单的Python程序也是GPT写的，因为我啊，是一点都不懂那些东西的。  
-<center>
-    <img src="https://image.whstu.us.kg/conan.png" alt="这就是我" title="这就是我" width="200"/><br>
-    <b>这 就 是 我！</b>
-</center>  
+我啥都没的说。。。
+联系方式：
+QQ：`2481729398`
+手机：`18758179529`微信、钉钉同号
+[bilibili](https://space.bilibili.com/1889214948)
+[知乎](https://www.zhihu.com/people/94-50-75-71)
+[CSDN](https://blog.csdn.net/yys365)
+[github](https://github.com/whstu)
 
 ## 未完待续 To Be Continued
